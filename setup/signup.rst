@@ -106,9 +106,9 @@ Closing a notebook
 ------------------
 
 Simply closing the notebook browser tab, will not shut down its "computational engine" (called the kernel). To shut down a kernel, 
-go to the associated notebook and click on menu **File -> Close and Halt** (see figure below). Alternatively, the Notebook Dashboard 
-has a tab named Running that shows all the running notebooks (i.e. kernels) and allows shutting them down (by clicking on a 
-Shutdown button).
+go to the associated notebook and click on menu **File -> Close and Shutdown Notebook** (see figure below). Alternatively, the 
+Notebook Dashboard has a tab named Running that shows all the running notebooks (i.e. kernels) and allows shutting them down (by 
+clicking on a Shutdown button).
 
 .. image:: / _static/sandbox-notebook-close.png
    :align: center
